@@ -1,5 +1,6 @@
 
 <?php
+echo 'it is working';
 require_once './Config/Rqouered.php';
 
 $url=$_SERVER['REQUEST_URI'];
